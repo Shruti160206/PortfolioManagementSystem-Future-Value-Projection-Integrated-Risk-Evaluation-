@@ -25,15 +25,15 @@ Key Features
 Core Concepts Applied
 
 *  Object-Oriented Programming
-  Abstraction : Asset abstract class
-  Inheritance : Stock, Bond, Gold, RealEstate extend Asset
-  Polymorphism : Overridden calculateFutureValue() & calculateRisk()
-  Encapsulation : Private variables with controlled access
+  - Abstraction : Asset abstract class
+  - Inheritance : Stock, Bond, Gold, RealEstate extend Asset
+  - Polymorphism : Overridden calculateFutureValue() & calculateRisk()
+  - Encapsulation : Private variables with controlled access
 
 * Data Structures & Algorithms (Custom Implementation)
-  LinkedList : Portfolio storage
-  ClientHashMap : Client-to-asset mapping (Specific mapping)
-  HashMap : Client-to-Object mapping (generic mapping, Here Object value can be Assets, Portfolios or Reports)
-  Stack : Transaction history tracking
-  Circular Queue : Order processing system
-  Binary Search Tree (BST) : Risk-based asset sorting
+  - LinkedList : Portfolio storage
+  - ClientHashMap : Client-to-asset mapping (Specific mapping)
+  - HashMap : Client-to-Object mapping (generic mapping, Here Object value can be Assets, Portfolios or Reports)
+  - Stack : Transaction history tracking
+  - Circular Queue : Order processing system
+  - Binary Search Tree (BST) : Risk-based asset sorting
