@@ -1,6 +1,4 @@
 # PortfolioManagementSystem-Future-Value-Projection-Integrated-Risk-Evaluation-
-Quantitative Future Value Projection & Integrated Risk Analytics
-Project Overview
 
 The Portfolio Management System is a Java-based investment management application designed to simulate real-world portfolio analysis for clients investing in:
 Stocks
