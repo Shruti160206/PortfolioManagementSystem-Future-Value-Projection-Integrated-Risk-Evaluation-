@@ -17,8 +17,7 @@ Key Features
 * Client registration & portfolio creation
 * BUY/SELL order processing using Circular Queue
 * Future Value Projection (CAGR-based calculations)
-* Risk Evaluation & Volatility Analysis
-* Risk-based asset sorting using Binary Search Tree
+* Risk Evaluation & Risk-based asset sorting using Binary Search Tree
 * Portfolio storage using custom LinkedList
 * Fast client-asset lookup using custom HashMap
 * Transaction history tracking using Stack
