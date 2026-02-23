@@ -10,7 +10,7 @@ The system enables financial accountants to register clients, process investment
 
 This project emphasizes core Data Structures & Algorithms (DSA) and Object-Oriented Programming (OOP) concepts without relying on Java built-in collections.
 
-Key Features
+# Key Features
 
 * Client registration & portfolio creation
 * BUY/SELL order processing using Circular Queue
@@ -22,7 +22,7 @@ Key Features
 * Custom exception handling for validation
 * Interactive user input (Console-based system)
 
-Core Concepts Applied
+# Core Concepts Applied
 
 *  Object-Oriented Programming
   - Abstraction : Asset abstract class
